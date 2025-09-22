@@ -1,4 +1,4 @@
-# 🚀 Introduction to Red Hat OpenShift — Completed Lab
+# 🚀 Red Hat OpenShift Lab
 
 ## ✅ Overview
 
