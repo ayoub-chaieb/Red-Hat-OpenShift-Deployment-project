@@ -52,7 +52,9 @@ openshift-lab/
   ```
 
 📷 *Screenshot: oc commands executed*
-![oc CLI Commands](images/oc_cli.png)
+![oc CLI Commands](images/oc_cli_1.png)
+![oc CLI Commands](images/oc_cli_2.png)
+![oc CLI Commands](images/oc_cli_3.png)
 
 ---
 
@@ -75,8 +77,9 @@ openshift-lab/
   * Selected **Node.js** builder image.
 * Confirmed application appeared in Topology after build.
   📷 *Screenshot: deploy app from Git*
-  ![Deploy App](images/deploy_git.png)
-
+  ![Deploy App](images/deploy_git_1.png)
+  ![Deploy App](images/deploy_git_2.png)
+  ![Topology](images/topology.png)
 ---
 
 ### 5. Inspect Build & ImageStream
@@ -115,7 +118,8 @@ resources:
 
 * Created an **HorizontalPodAutoscaler (HPA)** with target CPU utilization 10%, min=1, max=3 replicas.
   📷 *Screenshot: HPA creation*
-  ![HPA](images/hpa.png)
+  ![HPA](images/hpa_1.png)
+  ![HPA](images/hpa_2.png)
 
 ---
 
